@@ -1,4 +1,4 @@
-# CSE_6140_Project
+# Traveling_Salesman_Problem
 Exploring algorithms that aim to solve the **Traveling Salesman Problem** and implemented an exact branch-and-bound algorithm, several heuristic algorithms that approximate the optimal result such as MST-APPROX and FARTHEST-INSERTION, and local-search algorithms such as 2-EXCHANGE. We designed experiments to compare the results from different approaches, and we identified classes of graphs for which certain methods outperform others. The coding was implemented in python.
 ## Repository Structure
 ```bash
